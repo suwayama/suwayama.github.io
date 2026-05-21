@@ -109,19 +109,3 @@ Three reasons:
 3. **You cannot fix it by trusting the AI to fix itself.** Telling it, reminding it, even getting its sincere agreement, none of it holds, because the instruction lands in the part that already knew, not the part that acts. The gate must live *outside* the AI. Asking nicely is not a control. A locked door is.
 
 The short version: **the AI knows. It says so. It just doesn't stop itself, not even when it built the very tool designed to stop it. So the thing that stops it has to live on the outside, with its hand on the brake.**
-
-## Postscript: rejected by LessWrong
-
-I sent this to LessWrong first. It came back auto-rejected, flagged by an LLM-detector as probably machine-written, and under their rules a first-time author can't publish work that was developed through extended interaction with an AI. Here's what I wrote back, and where I'm leaving it:
-
-> I get why this was rejected, even if I think the rule's a bit too blunt for this kind of post.
->
-> The AI wasn't just helping me write. It was the subject of the piece. I needed the back and forth to make the observations in the first place, so the interaction was part of the method, not just the drafting. I couldn't have written it honestly without spending time with the system and watching how it behaved.
->
-> That's where the rule seems to fall short to me. It doesn't really separate using an AI to help write something from using an AI as the thing being observed. In this post, the AI was part of the evidence, not just part of the editing process.
->
-> I also get why that's hard to sort out at the gate. A post shaped through extended interaction with an AI is gonna sound a bit like the thing it's talking about. That doesn't necessarily mean it's low quality or machine written in the usual sense, but I can see why it'd raise concern.
->
-> At the same time, I'd be cautious about tightening this sort of gate too much. As AI gets more common, more worthwhile observations are gonna come from people who've had to spend time with it directly. A rule that's useful for blocking obvious AI sludge now may end up blocking exactly the kind of first-hand writing that'll matter most later.
->
-> So while I don't think the post is disqualified in substance, I can see that it sits outside the line your current rules are trying to draw. I'll leave it there.
